@@ -5,6 +5,7 @@
 <nav>
 	<a href="/">홈</a>
 	<a href="/about">소개</a>
+  <a href="/ex23">스니펫 레이아웃</a>
 </nav>
 
 
