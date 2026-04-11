@@ -16,6 +16,7 @@
 {/if}
 <hr />
 
+<footer>이것은 footer 임</footer>
 
 <style>
   nav {
